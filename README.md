@@ -9,4 +9,4 @@ Application de l’apprentissage en profondeur dans la modélisation QSAR pour l
 
 # Datasets
 Les données utilisées pour l'évaluation du modèle peuvent être téléchargées à partir de ce projet, 
-ic.csv pour 356 elemant.
+(ic.csv) pour 356 elemant.
