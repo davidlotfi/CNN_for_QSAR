@@ -27,7 +27,7 @@ model= Sequential()
 #initialisation de RNN
 model.add(LSTM(units=4, input_shape=(None,1),activation='relu')) # Hidden 1
 #model.add(Dense(10, activation='relu')) # Hidden 2
-model.add(Dense(1)) # Output
+model.add(Dense(1)) 
 
 model.compile(loss='mse',optimizer='adam', metrics=[coeff_determination])
 
